@@ -1,0 +1,302 @@
+Afghanistan - Kabul
+Albania - Tirana
+Algeria - Algiers
+Andorra - AndorraLaVella
+Angola - Luanda
+AntiguaBarbuda - SaintJohns
+Argentina - BuenosAires
+Armenia - Yerevan
+Australia - Canberra
+Austria - Vienna
+Azerbaijan - Baku
+Bahamas - Nassau
+Bahrain - Manama
+Bangladesh - Dhaka
+Barbados - Bridgetown
+Belarus - Minsk
+Belgium - Brussels
+Belize - Belmopan
+Benin - PortoNovo
+Bhutan - Thimphu
+Bolivia - Sucre
+BosniaHerzegovina - Sarajevo
+Botswana - Gaborone
+Brazil - Brasília
+Brunei - BandarSeriBegawan
+Bulgaria - Sofia
+BurkinaFaso - Ouagadougou
+Burundi - Gitega
+CaboVerde - Praia
+Cambodia - PhnomPenh
+Cameroon - Yaoundé
+Canada - Ottawa
+CentralAfricanRepublic - Bangui
+Chad - NDjamena
+Chile - Santiago
+China - Beijing
+Colombia - Bogotá
+Comoros - Moroni
+CongoRepublic - Brazzaville
+DemocraticRepublicOfTheCongo - Kinshasa
+CostaRica - SanJose
+Croatia - Zagreb
+Cuba - Havana
+Cyprus - Nicosia
+CzechRepublic - Prague
+Denmark - Copenhagen
+Djibouti - Djibouti
+Dominica - Roseau
+DominicanRepublic - SantoDomingo
+Ecuador - Quito
+Egypt - Cairo
+ElSalvador - SanSalvador
+EquatorialGuinea - Malabo
+Eritrea - Asmara
+Estonia - Tallinn
+Eswatini - Mbabane
+Ethiopia - AddisAbaba
+Fiji - Suva
+Finland - Helsinki
+France - Paris
+Gabon - Libreville
+Gambia - Banjul
+Georgia - Tbilisi
+Germany - Berlin
+Ghana - Accra
+Greece - Athens
+Grenada - StGeorges
+Guatemala - GuatemalaCity
+Guinea - Conakry
+GuineaBissau - Bissau
+Guyana - Georgetown
+Haiti - PortauPrince
+Honduras - Tegucigalpa
+Hungary - Budapest
+Iceland - Reykjavik
+India - NewDelhi
+Indonesia - Jakarta
+Iran - Tehran
+Iraq - Baghdad
+Ireland - Dublin
+Israel - Jerusalem
+Italy - Rome
+Jamaica - Kingston
+Japan - Tokyo
+Jordan - Amman
+Kashmir - Srinagar
+Kazakhstan - Astana
+Kenya - Nairobi
+Kiribati - Tarawa
+Kuwait - KuwaitCity
+Kyrgyzstan - Bishkek
+Laos - Vientiane
+Latvia - Riga
+Lebanon - Beirut
+Lesotho - Maseru
+Liberia - Monrovia
+Libya - Tripoli
+Liechtenstein - Vaduz
+Lithuania - Vilnius
+Luxembourg - LuxembourgCity
+Madagascar - Antananarivo
+Malawi - Lilongwe
+Malaysia - KualaLumpur
+Maldives - Male
+Mali - Bamako
+Malta - Valletta
+MarshallIslands - Majuro
+Mauritania - Nouakchott
+Mauritius - PortLouis
+Mexico - MexicoCity
+Micronesia - Palikir
+Moldova - Chisinau
+Monaco - Monaco
+Mongolia - Ulaanbaatar
+Montenegro - Podgorica
+Morocco - Rabat
+Mozambique - Maputo
+Myanmar - Naypyidaw
+Namibia - Windhoek
+Nauru - Yaren
+Nepal - Kathmandu
+Netherlands - Amsterdam
+NewZealand - Wellington
+Nicaragua - Managua
+Niger - Niamey
+Nigeria - Abuja
+NorthKorea - Pyongyang
+NorthMacedonia - Skopje
+Norway - Oslo
+Oman - Muscat
+Pakistan - Islamabad
+Palau - Ngerulmud
+Palestine - Jerusalem
+Panama - PanamaCity
+PapuaNewGuinea - PortMoresby
+Paraguay - Asuncion
+Peru - Lima
+Philippines - Manila
+Poland - Warsaw
+Portugal - Lisbon
+Qatar - Doha
+Romania - Bucharest
+Russia - Moscow
+Rwanda - Kigali
+SaintKittsNevis - Basseterre
+SaintLucia - Castries
+SaintVincentGrenadines - Kingstown
+Samoa - Apia
+SanMarino - SanMarino
+SaoTomePrincipe - SaoTome
+SaudiArabia - Riyadh
+Senegal - Dakar
+Serbia - Belgrade
+Seychelles - Victoria
+SierraLeone - Freetown
+Singapore - Singapore
+Slovakia - Bratislava
+Slovenia - Ljubljana
+SolomonIslands - Honiara
+Somalia - Mogadishu
+SouthAfrica - Pretoria
+SouthKorea - Seoul
+SouthSudan - Juba
+Spain - Madrid
+SriLanka - Colombo
+Sudan - Khartoum
+Suriname - Paramaribo
+Sweden - Stockholm
+Switzerland - Bern
+Syria - Damascus
+Taiwan - Taipei
+Tajikistan - Dushanbe
+Tanzania - Dodoma
+Thailand - Bangkok
+TimorLeste - Dili
+Togo - Lome
+Tonga - NukuAlofa
+TrinidadTobago - PortofSpain
+Tunisia - Tunis
+Turkey - Ankara
+Turkmenistan - Ashgabat
+Tuvalu - Funafuti
+Uganda - Kampala
+Ukraine - Kyiv
+UnitedArabEmirates - AbuDhabi
+UnitedKingdom - London
+UnitedStates - WashingtonDC
+Uruguay - Montevideo
+Uzbekistan - Tashkent
+Vanuatu - PortVila
+VaticanCity - VaticanCity
+Venezuela - Caracas
+Vietnam - Hanoi
+Yemen - Sanaa
+Zambia - Lusaka
+Zimbabwe - Harare
+
+
+US - WashingtonDC
+USA - WashingtonDC
+UnitedStates - WashingtonDC
+UnitedStatesOfAmerica - WashingtonDC
+America - WashingtonDC
+
+UK - London
+Britain - London
+England - London
+UnitedKingdom - London
+
+UAE - AbuDhabi
+Emirates - AbuDhabi
+UnitedArabEmirates - AbuDhabi
+
+KSA - Riyadh
+Saudia - Riyadh
+SaudiArabia - Riyadh
+
+SouthKorea - Seoul
+Korea - Seoul
+RepublicOfKorea - Seoul
+
+NorthKorea - Pyongyang
+DRK - Pyongyang
+DPRK - Pyongyang
+
+Russia - Moscow
+RussianFederation - Moscow
+
+Iran - Tehran
+IslamicRepublicOfIran - Tehran
+
+Syria - Damascus
+SyrianArabRepublic - Damascus
+
+Pakistan - Islamabad
+PAK - Islamabad
+
+India - NewDelhi
+Bharat - NewDelhi
+
+China - Beijing
+PRC - Beijing
+PeopleRepublicOfChina - Beijing
+
+Australia - Canberra
+Aussie - Canberra
+
+NewZealand - Wellington
+NZ - Wellington
+
+SouthAfrica - Pretoria
+RSA - Pretoria
+
+Czechia - Prague
+CzechRepublic - Prague
+
+Vatican - VaticanCity
+HolySee - VaticanCity
+
+Myanmar - Naypyidaw
+Burma - Naypyidaw
+
+IvoryCoast - Yamoussoukro
+CoteDIvoire - Yamoussoukro
+
+DRC - Kinshasa
+DemocraticRepublicOfTheCongo - Kinshasa
+
+RepublicOfTheCongo - Brazzaville
+ROC - Brazzaville
+
+Netherlands - Amsterdam
+Holland - Amsterdam
+
+Bolivia - Sucre
+BoliviaPlurinationalState - Sucre
+
+Tanzania - Dodoma
+UnitedRepublicOfTanzania - Dodoma
+
+UnitedStatesMinorOutlyingIslands - WashingtonDC
+
+SaintKittsNevis - Basseterre
+StKittsNevis - Basseterre
+
+SaintLucia - Castries
+StLucia - Castries
+
+SaintVincentGrenadines - Kingstown
+StVincent - Kingstown
+
+UKraine - Kyiv
+Ukraine - Kyiv
+
+Venezuela - Caracas
+BolivarianRepublicOfVenezuela - Caracas
+
+Laos - Vientiane
+LaoPDR - Vientiane
+
+Macedonia - Skopje
+NorthMacedonia - Skopje
